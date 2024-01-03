@@ -17,7 +17,10 @@
     "@angular/platform-browser": "^17.0.0",
     "@angular/platform-browser-dynamic": "^17.0.0",
     "@angular/router": "^17.0.0",
+    "angular-three": "^2.0.0-beta.42",
+    "ngxtension": "^1.7.0",
     "rxjs": "~7.8.0",
+    "three": "^0.155.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.2"
   },
@@ -25,6 +28,7 @@
     "@angular-devkit/build-angular": "^17.0.8",
     "@angular/cli": "^17.0.8",
     "@angular/compiler-cli": "^17.0.0",
+    "@types/three": "^0.155.0",
     "typescript": "~5.2.2"
   }
 }
